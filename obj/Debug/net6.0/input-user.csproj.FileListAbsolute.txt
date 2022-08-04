@@ -1,0 +1,15 @@
+C:\Users\Tegar\Desktop\Github-Project\C#\input-user\bin\Debug\net6.0\input-user.exe
+C:\Users\Tegar\Desktop\Github-Project\C#\input-user\bin\Debug\net6.0\input-user.deps.json
+C:\Users\Tegar\Desktop\Github-Project\C#\input-user\bin\Debug\net6.0\input-user.runtimeconfig.json
+C:\Users\Tegar\Desktop\Github-Project\C#\input-user\bin\Debug\net6.0\input-user.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\input-user\bin\Debug\net6.0\input-user.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\input-user\obj\Debug\net6.0\input-user.csproj.AssemblyReference.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\input-user\obj\Debug\net6.0\input-user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tegar\Desktop\Github-Project\C#\input-user\obj\Debug\net6.0\input-user.AssemblyInfoInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\input-user\obj\Debug\net6.0\input-user.AssemblyInfo.cs
+C:\Users\Tegar\Desktop\Github-Project\C#\input-user\obj\Debug\net6.0\input-user.csproj.CoreCompileInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\input-user\obj\Debug\net6.0\input-user.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\input-user\obj\Debug\net6.0\refint\input-user.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\input-user\obj\Debug\net6.0\input-user.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\input-user\obj\Debug\net6.0\input-user.genruntimeconfig.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\input-user\obj\Debug\net6.0\ref\input-user.dll
